@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    outline: none;
+    border: none;
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -box-sizing: border-box;
+}
+div.background{
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(../assets/images/adoravel-animal-animal-de-estimacao-395075.jpg);
+    background-size: cover;
+}
